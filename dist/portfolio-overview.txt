@@ -1,0 +1,22 @@
+SIPHUTHANDO MKHIZE — CIVIL ENGINEERING & REVIT PORTFOLIO
+
+PROJECT 1 — ONE-WAY SLAB REINFORCEMENT
+Reinforced concrete modelling and documentation, with three drawing exports:
+a reinforced 3D model, a section, and a supporting frame elevation.
+Project files include a design analysis workbook, reinforcement schedule,
+material takeoff, bill of quantities, and native Revit model.
+Analysis workbook parameters: 4 m clear span, 175 mm slab, 30 MPa concrete,
+main Y12 bars at 200 mm and transverse Y10 bars at 300 mm.
+
+PROJECT 2 — ONE-WAY SLAB REINFORCEMENT
+A separate project entry with drawing views and supporting documentation.
+
+DYNAMO DOCUMENTATION STUDY
+A Revit Dynamo CPython 3 script exploring material reporting, view creation,
+sheet placement, and combined PDF export for an existing silo model.
+The workflow matrix maps fourteen stages across setup, modelling,
+and documentation.
+
+TECHNICAL AREAS
+Revit, Dynamo, Python, reinforcement detailing, drawing production,
+material takeoff, and sheet organisation.
