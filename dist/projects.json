@@ -1,0 +1,569 @@
+[
+  {
+    "id": "gas-rack",
+    "title": "Gas piping rack",
+    "category": "Steel supports and piping",
+    "description": "A piping rack study, with six drawing exports, structural analysis and a consolidated bill of quantities.",
+    "files": [
+      {
+        "name": "Gas Piping rack 1.pdf",
+        "url": "documents/gas-rack-01.pdf",
+        "size": 1638285
+      },
+      {
+        "name": "Gas Piping rack 2.pdf",
+        "url": "documents/gas-rack-02.pdf",
+        "size": 1527909
+      },
+      {
+        "name": "Gas Piping rack 3.pdf",
+        "url": "documents/gas-rack-03.pdf",
+        "size": 674971
+      },
+      {
+        "name": "Gas Piping rack 4.pdf",
+        "url": "documents/gas-rack-04.pdf",
+        "size": 194116
+      },
+      {
+        "name": "Gas Piping rack 5.pdf",
+        "url": "documents/gas-rack-05.pdf",
+        "size": 275948
+      },
+      {
+        "name": "Gas Piping rack 6.pdf",
+        "url": "documents/gas-rack-06.pdf",
+        "size": 402284
+      },
+      {
+        "name": "Pipe Rack Analysis & Design.xlsx",
+        "url": "documents/gas-rack-07.xlsx",
+        "size": 75358
+      },
+      {
+        "name": "Piping Rack  Consolidated BOQ.xlsx",
+        "url": "documents/gas-rack-08.xlsx",
+        "size": 12042
+      }
+    ],
+    "drawings": [
+      {
+        "image": "assets/gas-rack-01.png",
+        "pdf": "documents/gas-rack-01.pdf",
+        "title": "Gas Piping rack 1"
+      },
+      {
+        "image": "assets/gas-rack-02.png",
+        "pdf": "documents/gas-rack-02.pdf",
+        "title": "Gas Piping rack 2"
+      },
+      {
+        "image": "assets/gas-rack-03.png",
+        "pdf": "documents/gas-rack-03.pdf",
+        "title": "Gas Piping rack 3"
+      },
+      {
+        "image": "assets/gas-rack-04.png",
+        "pdf": "documents/gas-rack-04.pdf",
+        "title": "Gas Piping rack 4"
+      },
+      {
+        "image": "assets/gas-rack-05.png",
+        "pdf": "documents/gas-rack-05.pdf",
+        "title": "Gas Piping rack 5"
+      },
+      {
+        "image": "assets/gas-rack-06.png",
+        "pdf": "documents/gas-rack-06.pdf",
+        "title": "Gas Piping rack 6"
+      }
+    ]
+  },
+  {
+    "id": "mep",
+    "title": "Mechanical MEP project",
+    "category": "Services coordination in Revit",
+    "description": "Eight drawing exports and the native Revit model show the mechanical MEP project from multiple views.",
+    "files": [
+      {
+        "name": "Mech MEP Project 1.pdf",
+        "url": "documents/mep-01.pdf",
+        "size": 1021590
+      },
+      {
+        "name": "Mech MEP Project 2.pdf",
+        "url": "documents/mep-02.pdf",
+        "size": 626282
+      },
+      {
+        "name": "Mech MEP Project 3.pdf",
+        "url": "documents/mep-03.pdf",
+        "size": 997239
+      },
+      {
+        "name": "Mech MEP Project 4.pdf",
+        "url": "documents/mep-04.pdf",
+        "size": 5672489
+      },
+      {
+        "name": "Mech MEP Project 5.pdf",
+        "url": "documents/mep-05.pdf",
+        "size": 1785359
+      },
+      {
+        "name": "Mech MEP Project 6.pdf",
+        "url": "documents/mep-06.pdf",
+        "size": 1472125
+      },
+      {
+        "name": "Mech MEP Project 7.pdf",
+        "url": "documents/mep-07.pdf",
+        "size": 1789048
+      },
+      {
+        "name": "Mech MEP Project 8.pdf",
+        "url": "documents/mep-08.pdf",
+        "size": 1466721
+      },
+      {
+        "name": "Mech MEP Project.rvt",
+        "url": "documents/mep-09.rvt",
+        "size": 15847424
+      }
+    ],
+    "drawings": [
+      {
+        "image": "assets/mep-01.png",
+        "pdf": "documents/mep-01.pdf",
+        "title": "Mech MEP Project 1"
+      },
+      {
+        "image": "assets/mep-02.png",
+        "pdf": "documents/mep-02.pdf",
+        "title": "Mech MEP Project 2"
+      },
+      {
+        "image": "assets/mep-03.png",
+        "pdf": "documents/mep-03.pdf",
+        "title": "Mech MEP Project 3"
+      },
+      {
+        "image": "assets/mep-04.png",
+        "pdf": "documents/mep-04.pdf",
+        "title": "Mech MEP Project 4"
+      },
+      {
+        "image": "assets/mep-05.png",
+        "pdf": "documents/mep-05.pdf",
+        "title": "Mech MEP Project 5"
+      },
+      {
+        "image": "assets/mep-06.png",
+        "pdf": "documents/mep-06.pdf",
+        "title": "Mech MEP Project 6"
+      },
+      {
+        "image": "assets/mep-07.png",
+        "pdf": "documents/mep-07.pdf",
+        "title": "Mech MEP Project 7"
+      },
+      {
+        "image": "assets/mep-08.png",
+        "pdf": "documents/mep-08.pdf",
+        "title": "Mech MEP Project 8"
+      }
+    ]
+  },
+  {
+    "id": "pipe-network",
+    "title": "Pipe network",
+    "category": "Hydraulics and civil infrastructure",
+    "description": "A pipe network study supported by hydraulic assumptions, system curves, reporting, quantities and a native CAD drawing.",
+    "files": [
+      {
+        "name": "Initial Design Assumptions & Hydraulics.xlsx",
+        "url": "documents/pipe-network-01.xlsx",
+        "size": 30322
+      },
+      {
+        "name": "Pipe Flow System Curves Calculator.xlsx",
+        "url": "documents/pipe-network-02.xlsx",
+        "size": 30215
+      },
+      {
+        "name": "Pipe Nerwork BOQ.xlsx",
+        "url": "documents/pipe-network-03.xlsx",
+        "size": 231467
+      },
+      {
+        "name": "Pipe Network project.dwg",
+        "url": "documents/pipe-network-04.dwg",
+        "size": 3772012
+      },
+      {
+        "name": "Pipe netwrok report.xlsx",
+        "url": "documents/pipe-network-05.xlsx",
+        "size": 13676
+      }
+    ],
+    "drawings": []
+  },
+  {
+    "id": "highway",
+    "title": "Highway and channel design",
+    "category": "Alignment, slopes and earthworks",
+    "description": "Road and channel design documents bring together alignment curves, slope reporting, channel volumes and a bill of quantities.",
+    "files": [
+      {
+        "name": "Alignment Curve Report.xlsx",
+        "url": "documents/highway-01.xlsx",
+        "size": 10761
+      },
+      {
+        "name": "Channel Volume Report.xlsx",
+        "url": "documents/highway-02.xlsx",
+        "size": 12056
+      },
+      {
+        "name": "Highway Design.dwg",
+        "url": "documents/highway-03.dwg",
+        "size": 15182668
+      },
+      {
+        "name": "Initial design Asuumptions Road & Channel.xlsx",
+        "url": "documents/highway-04.xlsx",
+        "size": 10429
+      },
+      {
+        "name": "Road BOQ.xlsx",
+        "url": "documents/highway-05.xlsx",
+        "size": 83606
+      },
+      {
+        "name": "Slope Report.xlsx",
+        "url": "documents/highway-06.xlsx",
+        "size": 16048
+      }
+    ],
+    "drawings": []
+  },
+  {
+    "id": "silo",
+    "title": "Silo structure",
+    "category": "Revit and civil infrastructure",
+    "description": "A silo project documented through nine PDF exports, a native Revit model and a civil infrastructure bill of quantities.",
+    "files": [
+      {
+        "name": "Project - 2 Silo 1.pdf",
+        "url": "documents/silo-01.pdf",
+        "size": 2982861
+      },
+      {
+        "name": "Project - 2 Silo 2.pdf",
+        "url": "documents/silo-02.pdf",
+        "size": 943383
+      },
+      {
+        "name": "Project - 2 Silo 3.pdf",
+        "url": "documents/silo-03.pdf",
+        "size": 1283528
+      },
+      {
+        "name": "Project - 2 Silo 4.pdf",
+        "url": "documents/silo-04.pdf",
+        "size": 1080921
+      },
+      {
+        "name": "Project - 2 Silo 5.pdf",
+        "url": "documents/silo-05.pdf",
+        "size": 1293965
+      },
+      {
+        "name": "Project - 2 Silo 6.pdf",
+        "url": "documents/silo-06.pdf",
+        "size": 1485522
+      },
+      {
+        "name": "Project - 2 Silo 7.pdf",
+        "url": "documents/silo-07.pdf",
+        "size": 695183
+      },
+      {
+        "name": "Project - 2 Silo 8.pdf",
+        "url": "documents/silo-08.pdf",
+        "size": 1197620
+      },
+      {
+        "name": "Project - 2 Silo.pdf",
+        "url": "documents/silo-09.pdf",
+        "size": 1190981
+      },
+      {
+        "name": "Project - 2 Silo.rvt",
+        "url": "documents/silo-10.rvt",
+        "size": 19750912
+      },
+      {
+        "name": "Silo Structure & Civil Infrastructure BOQ - Template Aligned.xlsx",
+        "url": "documents/silo-11.xlsx",
+        "size": 7335
+      },
+      {
+        "name": "Dynamo Python Code (1).docx",
+        "url": "documents/silo-12.docx",
+        "size": 18423
+      },
+      {
+        "name": "Dynamo Workflow Matrix (2).xlsx",
+        "url": "documents/silo-13.xlsx",
+        "size": 10027
+      }
+    ],
+    "drawings": [
+      {
+        "image": "assets/silo-01.png",
+        "pdf": "documents/silo-01.pdf",
+        "title": "Project - 2 Silo 1"
+      },
+      {
+        "image": "assets/silo-02.png",
+        "pdf": "documents/silo-02.pdf",
+        "title": "Project - 2 Silo 2"
+      },
+      {
+        "image": "assets/silo-03.png",
+        "pdf": "documents/silo-03.pdf",
+        "title": "Project - 2 Silo 3"
+      },
+      {
+        "image": "assets/silo-04.png",
+        "pdf": "documents/silo-04.pdf",
+        "title": "Project - 2 Silo 4"
+      },
+      {
+        "image": "assets/silo-05.png",
+        "pdf": "documents/silo-05.pdf",
+        "title": "Project - 2 Silo 5"
+      },
+      {
+        "image": "assets/silo-06.png",
+        "pdf": "documents/silo-06.pdf",
+        "title": "Project - 2 Silo 6"
+      },
+      {
+        "image": "assets/silo-07.png",
+        "pdf": "documents/silo-07.pdf",
+        "title": "Project - 2 Silo 7"
+      },
+      {
+        "image": "assets/silo-08.png",
+        "pdf": "documents/silo-08.pdf",
+        "title": "Project - 2 Silo 8"
+      },
+      {
+        "image": "assets/silo-09.png",
+        "pdf": "documents/silo-09.pdf",
+        "title": "Project - 2 Silo"
+      }
+    ]
+  },
+  {
+    "id": "truss-bridge",
+    "title": "Truss bridge",
+    "category": "Structural modelling and quantities",
+    "description": "A bridge study with four drawing exports, structural analysis, material takeoff, a bill of quantities and the Revit model.",
+    "files": [
+      {
+        "name": "Truss Bridge Project 1.pdf",
+        "url": "documents/truss-bridge-01.pdf",
+        "size": 534383
+      },
+      {
+        "name": "Truss Bridge Project 2.pdf",
+        "url": "documents/truss-bridge-02.pdf",
+        "size": 249791
+      },
+      {
+        "name": "Truss Bridge Project 3.pdf",
+        "url": "documents/truss-bridge-03.pdf",
+        "size": 248958
+      },
+      {
+        "name": "Truss Bridge Project 4.pdf",
+        "url": "documents/truss-bridge-04.pdf",
+        "size": 70188
+      },
+      {
+        "name": "Truss Bridge Project.rvt",
+        "url": "documents/truss-bridge-05.rvt",
+        "size": 11558912
+      },
+      {
+        "name": "Truss Analysis & Design.xlsx",
+        "url": "documents/truss-bridge-06.xlsx",
+        "size": 75732
+      },
+      {
+        "name": "Multi-Category Material Takeoff Truss Bridge.csv",
+        "url": "documents/truss-bridge-07.csv",
+        "size": 63735
+      },
+      {
+        "name": "Truss Bridge Structure & Civil Infrastructure BOQ.xlsx",
+        "url": "documents/truss-bridge-08.xlsx",
+        "size": 11455
+      }
+    ],
+    "drawings": [
+      {
+        "image": "assets/truss-bridge-01.png",
+        "pdf": "documents/truss-bridge-01.pdf",
+        "title": "Truss Bridge Project 1"
+      },
+      {
+        "image": "assets/truss-bridge-02.png",
+        "pdf": "documents/truss-bridge-02.pdf",
+        "title": "Truss Bridge Project 2"
+      },
+      {
+        "image": "assets/truss-bridge-03.png",
+        "pdf": "documents/truss-bridge-03.pdf",
+        "title": "Truss Bridge Project 3"
+      },
+      {
+        "image": "assets/truss-bridge-04.png",
+        "pdf": "documents/truss-bridge-04.pdf",
+        "title": "Truss Bridge Project 4"
+      }
+    ]
+  },
+  {
+    "id": "slab-additional",
+    "title": "One-way slab · supplied update",
+    "category": "Concrete and reinforcement",
+    "description": "An additional supplied slab file set, with three drawing exports, analysis, quantities and the Revit model.",
+    "files": [
+      {
+        "name": "1-Way Slab Reinforcement 1 (1).pdf",
+        "url": "documents/slab-additional-01.pdf",
+        "size": 46741
+      },
+      {
+        "name": "1-Way Slab Reinforcement 2 (1).pdf",
+        "url": "documents/slab-additional-02.pdf",
+        "size": 81705
+      },
+      {
+        "name": "1-Way Slab Reinforcement 3 (1).pdf",
+        "url": "documents/slab-additional-03.pdf",
+        "size": 422914
+      },
+      {
+        "name": "1-Way Slab Reinforcement (1).rvt",
+        "url": "documents/slab-additional-04.rvt",
+        "size": 7974912
+      },
+      {
+        "name": "1 Way Slab BOQ (1).xlsx",
+        "url": "documents/slab-additional-05.xlsx",
+        "size": 10657
+      },
+      {
+        "name": "Design & Analysis 1 Way Slab (1).xlsx",
+        "url": "documents/slab-additional-06.xlsx",
+        "size": 12712
+      }
+    ],
+    "drawings": [
+      {
+        "image": "assets/slab-additional-01.png",
+        "pdf": "documents/slab-additional-01.pdf",
+        "title": "1-Way Slab Reinforcement 1 (1)"
+      },
+      {
+        "image": "assets/slab-additional-02.png",
+        "pdf": "documents/slab-additional-02.pdf",
+        "title": "1-Way Slab Reinforcement 2 (1)"
+      },
+      {
+        "image": "assets/slab-additional-03.png",
+        "pdf": "documents/slab-additional-03.pdf",
+        "title": "1-Way Slab Reinforcement 3 (1)"
+      }
+    ]
+  },
+  {
+    "id": "warehouse",
+    "title": "Structural warehouse",
+    "category": "Steel structure and civil works",
+    "description": "Warehouse drawings, a native Revit model, structural analysis and a consolidated civil works bill of quantities.",
+    "files": [
+      {
+        "name": "Structural Warehouse`1.pdf",
+        "url": "documents/warehouse-01.pdf",
+        "size": 798442
+      },
+      {
+        "name": "Structural Warehouse 2.pdf",
+        "url": "documents/warehouse-02.pdf",
+        "size": 482628
+      },
+      {
+        "name": "Structural Warehouse 3.pdf",
+        "url": "documents/warehouse-03.pdf",
+        "size": 1773086
+      },
+      {
+        "name": "Structural Warehouse 5.pdf",
+        "url": "documents/warehouse-04.pdf",
+        "size": 663186
+      },
+      {
+        "name": "Structural Warehouse.rvt",
+        "url": "documents/warehouse-05.rvt",
+        "size": 10670080
+      },
+      {
+        "name": "Warehouse Analysis & Design.xlsx",
+        "url": "documents/warehouse-06.xlsx",
+        "size": 37825
+      },
+      {
+        "name": "Warehouse and Civil Works Consolidated BOQ.xlsx",
+        "url": "documents/warehouse-07.xlsx",
+        "size": 12905
+      }
+    ],
+    "drawings": [
+      {
+        "image": "assets/warehouse-02.png",
+        "pdf": "documents/warehouse-02.pdf",
+        "title": "Structural Warehouse 2"
+      },
+      {
+        "image": "assets/warehouse-03.png",
+        "pdf": "documents/warehouse-03.pdf",
+        "title": "Structural Warehouse 3"
+      }
+    ]
+  },
+  {
+    "id": "dynamo-files",
+    "title": "Dynamo source documents",
+    "category": "Automation notebook",
+    "description": "The supplied Python code document and workflow matrix are available together for review.",
+    "files": [
+      {
+        "name": "Dynamo Python Code.docx",
+        "url": "documents/dynamo-files-01.docx",
+        "size": 18423
+      },
+      {
+        "name": "Dynamo Workflow Matrix.xlsx",
+        "url": "documents/dynamo-files-02.xlsx",
+        "size": 10027
+      }
+    ],
+    "drawings": []
+  }
+]

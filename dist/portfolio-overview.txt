@@ -20,3 +20,14 @@ and documentation.
 TECHNICAL AREAS
 Revit, Dynamo, Python, reinforcement detailing, drawing production,
 material takeoff, and sheet organisation.
+
+ADDITIONAL PROJECT LIBRARY
+Gas piping rack — A piping rack study, with six drawing exports, structural analysis and a consolidated bill of quantities.
+Mechanical MEP project — Eight drawing exports and the native Revit model show the mechanical MEP project from multiple views.
+Pipe network — A pipe network study supported by hydraulic assumptions, system curves, reporting, quantities and a native CAD drawing.
+Highway and channel design — Road and channel design documents bring together alignment curves, slope reporting, channel volumes and a bill of quantities.
+Silo structure — A silo project documented through nine PDF exports, a native Revit model and a civil infrastructure bill of quantities.
+Truss bridge — A bridge study with four drawing exports, structural analysis, material takeoff, a bill of quantities and the Revit model.
+One-way slab · supplied update — An additional supplied slab file set, with three drawing exports, analysis, quantities and the Revit model.
+Structural warehouse — Warehouse drawings, a native Revit model, structural analysis and a consolidated civil works bill of quantities.
+Dynamo source documents — The supplied Python code document and workflow matrix are available together for review.
