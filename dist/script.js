@@ -52,8 +52,8 @@ function openDrawing(index, project, triggerElement) {
   document.body.classList.add('modal-open');
 }
 document.querySelectorAll('[data-drawing]').forEach(button => button.addEventListener('click', () => openDrawing(button.dataset.drawing, 1, button)));
-document.getElementById('open-project-two').addEventListener('click', event => openDrawing('3', 2, event.currentTarget));
-document.querySelector('[data-project-two-image]').addEventListener('click', event => openDrawing('3', 2, event.currentTarget));
+document.getElementById('open-project-two')?.addEventListener('click', event => openDrawing('3', 2, event.currentTarget));
+document.querySelector('[data-project-two-image]')?.addEventListener('click', event => openDrawing('3', 2, event.currentTarget));
 drawingDialog.querySelectorAll('[data-gallery]').forEach(button => button.addEventListener('click', () => showDrawing(button.dataset.gallery)));
 drawingDialog.querySelector('.close').addEventListener('click', () => drawingDialog.close());
 drawingDialog.addEventListener('close', () => {
