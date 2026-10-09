@@ -203,3 +203,27 @@
   .project,.steps article { break-inside:avoid; }
   dialog { display:none; }
 }
+
+@layer components {
+  .collection-nav { @apply mb-12 flex flex-wrap gap-2; }
+  .collection-nav a { @apply rounded-full border border-line px-4 py-2 text-sm transition-colors hover:bg-soft; }
+  .collection-project { @apply border-t border-line py-12; scroll-margin-top:32px; }
+  .collection-heading { @apply flex flex-wrap items-center justify-between gap-4; }
+  .collection-heading h3 { @apply mb-3 font-editorial text-3xl md:text-4xl; }
+  .file-count { @apply rounded-full bg-soft px-4 py-2 text-sm; }
+  .collection-description { @apply mb-7 max-w-3xl text-neutral-600; }
+  .collection-gallery { @apply grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3; }
+  .collection-drawing { @apply overflow-hidden rounded-xl border border-line bg-white text-left transition-shadow hover:shadow-lg; }
+  .collection-drawing img { @apply block h-56 w-full bg-soft object-contain; }
+  .collection-drawing>span { @apply flex items-center justify-between gap-3 border-t border-line p-4 text-sm; }
+  .collection-drawing small { @apply shrink-0 text-clay; }
+  .project-downloads { @apply mt-6 rounded-xl border border-line; }
+  .project-downloads summary { @apply flex cursor-pointer items-center justify-between gap-3 p-5 font-medium; }
+  .project-downloads summary span { @apply shrink-0 text-sm font-normal text-clay; }
+  .collection-files { @apply grid grid-cols-1 gap-x-8 px-5 pb-5 md:grid-cols-2; }
+  .collection-files a { @apply flex items-center justify-between gap-5 border-t border-line py-4 text-sm hover:text-clay; }
+  .collection-files a span { overflow-wrap:anywhere; }
+  .collection-files small { @apply shrink-0 text-xs text-neutral-500; }
+  .sheet-counter { @apply px-3 text-sm; }
+  .drawing-controls button:disabled { opacity:.4;cursor:default; }
+}
