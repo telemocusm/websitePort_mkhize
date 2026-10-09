@@ -227,3 +227,34 @@
   .sheet-counter { @apply px-3 text-sm; }
   .drawing-controls button:disabled { opacity:.4;cursor:default; }
 }
+
+@layer components {
+ .employer-grid { @apply grid grid-cols-1 items-start gap-7 md:grid-cols-2; }
+ .employer-project { @apply overflow-hidden rounded-2xl border border-line bg-white; scroll-margin-top:95px; }
+ .employer-project:has(.project-case[open]) { grid-column:1/-1; }
+ .project-cover { @apply block h-64 w-full bg-soft object-contain; }
+ .project-cover-text { @apply flex flex-col items-start justify-center gap-5 p-8; }
+ .project-cover-text span { @apply text-xs font-medium tracking-widest text-clay; }
+ .project-cover-text strong { @apply font-editorial text-3xl font-normal; }
+ .project-card-body { @apply p-6 md:p-7; }
+ .project-card-body h3 { @apply mb-4 font-editorial text-3xl; }
+ .project-card-body>p:not(.eyebrow) { @apply text-sm text-neutral-600; }
+ .project-card-body .project-skills { @apply mt-5 border-t border-line pt-4 text-sm font-medium; }
+ .project-case>summary { @apply flex cursor-pointer items-center justify-between gap-4 py-3 text-sm font-semibold text-clay; list-style:none; }
+ .project-case>summary::-webkit-details-marker { display:none; }
+ .project-case[open]>summary span { transform:rotate(45deg); }
+ .case-content { @apply mt-5; }
+ .case-content h4 { @apply mb-2 mt-8 text-lg font-medium; }
+ .file-help { @apply text-sm; }
+ .case-content .collection-files { @apply px-0; }
+ .contact-section { @apply rounded-2xl bg-ink p-7 text-white md:p-10; }
+ .contact-section h2 { @apply text-white; }
+ .contact-section p { @apply max-w-2xl text-white/80; }
+ .contact-section .button { @apply bg-white text-ink; }
+ .header { position:sticky;top:0;z-index:20;background:rgba(255,255,255,.97); }
+ .header nav { @apply flex-wrap; }
+ .header-link { @apply shrink-0; }
+ .hero h1 { font-size:clamp(2.6rem,5.5vw,5rem); }
+ .hero-drawing img { transform:none; }
+}
+@media(max-width:600px) { .header { position:relative; } .header-link { display:none; } .hero-drawing img { transform:none; } }
